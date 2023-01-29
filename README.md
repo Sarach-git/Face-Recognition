@@ -5,7 +5,6 @@ Face recognition is a problem domain in computer vision where low-dimensional li
 
 
 The goal of Robust PCA is D = A + E . This goal can be best illustrated with the image below:  
-![rpca](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkojinoshiba.com%2Frobust-pca%2F&psig=AOvVaw3manEHr3WC-FlW1CE86Q2T&ust=1675106757148000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjE2YzB7fwCFQAAAAAdAAAAABAE)
 
 
 
