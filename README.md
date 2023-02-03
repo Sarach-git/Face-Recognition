@@ -8,7 +8,9 @@ The algorithms is tested on synthetic data as well as the original research pape
 
 Dataset : [LFW - People (Face Recognition)](https://www.kaggle.com/datasets/atulanandjha/lfwpeople)
 
-Test on dataset : `RPCA_FaceRecognition.ipynb` 
+Test on dataset : `RPCA_FaceRecognition.ipynb`. 
+
+Robust PCA : `robust_pca.py`
 
 
 
