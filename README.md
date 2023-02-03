@@ -26,7 +26,8 @@ Face Recognition using RPCA example:
 
 
 [![image1](https://www.linkpicture.com/q/download_231.png)](https://www.linkpicture.com/view.php?img=LPic63da25401cd58431643691)
-[![image2](https://ibb.co/wrrQB7x)
+
+
 
 
 ## Reference 
