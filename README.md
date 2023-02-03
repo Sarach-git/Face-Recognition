@@ -21,11 +21,10 @@ The goal of Robust PCA is D = A + E . This goal can be best illustrated with the
 ![image](https://kojinoshiba.com/assets/images/2018-05-27-robust-pca/robust_pca.png) 
 
 
-Face Recognition using RPCA Demo test:    
+Face Recognition using RPCA Demo test:  
 
+[![image](https://www.linkpicture.com/q/download3_1.png)](https://www.linkpicture.com/view.php?img=LPic63dd698bbe49b1061729209)
 
-
-[![image1](https://www.linkpicture.com/q/download_231.png)](https://www.linkpicture.com/view.php?img=LPic63da25401cd58431643691)
 
 
 
