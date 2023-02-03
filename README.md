@@ -22,7 +22,9 @@ The goal of Robust PCA is D = A + E . This goal can be best illustrated with the
 
 
 Face Recognition using RPCA example:    
-[![image](https://www.linkpicture.com/q/download_231.png)](https://www.linkpicture.com/view.php?img=LPic63da25401cd58431643691)
+
+
+[![image](https://ibb.co/wrrQB7x)
 
 
 ## Reference 
