@@ -3,7 +3,7 @@ Face Recognition using PCA and Robust PCA.
 
 
 The main goal of this repository is to visualize and understand an application of the Principal Component Analysis (PCA) algorithm and how it works in the background. Then RPCA is used to find the sparse errors areas of objective faces and the math behind it is discussed.  
-The algorithms is tested on synthetic data as well as the original research paper dataset ( [YaleB dataset](https://www.kaggle.com/datasets/olgabelitskaya/yale-face-database) ). At last both PCA  and RPCA is tested on lfw-people dataset for different cases including original case and noisy case by adding gaussian, salt&pepper and speckle noise.
+The algorithms is tested on synthetic data as well as the original research paper dataset ( [YaleB dataset](https://www.kaggle.com/datasets/olgabelitskaya/yale-face-database) ). At last both PCA  and RPCA are tested on lfw-people dataset for different cases including original case and noisy case by adding gaussian, salt&pepper and speckle noise.
 
 
 Dataset : [LFW - People (Face Recognition)](https://www.kaggle.com/datasets/atulanandjha/lfwpeople)
